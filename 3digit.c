@@ -1,3 +1,4 @@
+//WAPC to check if a number is of 3-digits and divisible by 3.
 #include <stdio.h>
 int main() 
 {
